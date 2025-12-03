@@ -64,31 +64,6 @@ Users choose to:
 - Download a combined TXT file
 - Download a PDF with one page per recipient
 
-## 📁 Project Structure
-
-```
-frontend/
-│
-├── src/
-│   ├── components/
-│   │   ├── FileUpload.jsx
-│   │   ├── TemplatesList.jsx
-│   │   ├── TemplateEditor.jsx
-│   │   ├── EmailPreview.jsx
-│   │   ├── RecipientsList.jsx
-│   │   ├── GenerationButtons.jsx
-│   │   ├── InstructionsPage.jsx
-│   │   ├── Header.jsx
-│   │   └── Footer.jsx
-│   │
-│   ├── App.jsx
-│   ├── index.jsx
-│   └── App.css
-│
-├── package.json
-└── public/
-```
-
 ## 🛠️ Tech Stack
 
 **Frontend**
